@@ -1,15 +1,15 @@
 {
-  "main.css": "/react-gh-pages/static/css/main.d3f25232.chunk.css",
-  "main.js": "/react-gh-pages/static/js/main.c5ebdb11.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.c5ebdb11.chunk.js.map",
-  "static/js/1.9ad960da.chunk.js": "/react-gh-pages/static/js/1.9ad960da.chunk.js",
-  "static/js/1.9ad960da.chunk.js.map": "/react-gh-pages/static/js/1.9ad960da.chunk.js.map",
-  "static/js/2.cc6da4f6.chunk.js": "/react-gh-pages/static/js/2.cc6da4f6.chunk.js",
-  "static/js/2.cc6da4f6.chunk.js.map": "/react-gh-pages/static/js/2.cc6da4f6.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.cca40b9c.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.cca40b9c.js.map",
-  "static/css/main.d3f25232.chunk.css.map": "/react-gh-pages/static/css/main.d3f25232.chunk.css.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.73e5609441e5935a521b7482d9bb4a6d.js": "/react-gh-pages/precache-manifest.73e5609441e5935a521b7482d9bb4a6d.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js"
+  "main.css": "/tic-tac-toe-react/static/css/main.d3f25232.chunk.css",
+  "main.js": "/tic-tac-toe-react/static/js/main.c5ebdb11.chunk.js",
+  "main.js.map": "/tic-tac-toe-react/static/js/main.c5ebdb11.chunk.js.map",
+  "static/js/1.9ad960da.chunk.js": "/tic-tac-toe-react/static/js/1.9ad960da.chunk.js",
+  "static/js/1.9ad960da.chunk.js.map": "/tic-tac-toe-react/static/js/1.9ad960da.chunk.js.map",
+  "static/js/2.cc6da4f6.chunk.js": "/tic-tac-toe-react/static/js/2.cc6da4f6.chunk.js",
+  "static/js/2.cc6da4f6.chunk.js.map": "/tic-tac-toe-react/static/js/2.cc6da4f6.chunk.js.map",
+  "runtime~main.js": "/tic-tac-toe-react/static/js/runtime~main.3ac6686e.js",
+  "runtime~main.js.map": "/tic-tac-toe-react/static/js/runtime~main.3ac6686e.js.map",
+  "static/css/main.d3f25232.chunk.css.map": "/tic-tac-toe-react/static/css/main.d3f25232.chunk.css.map",
+  "index.html": "/tic-tac-toe-react/index.html",
+  "precache-manifest.5354f21583f18ed7f185979eed8584da.js": "/tic-tac-toe-react/precache-manifest.5354f21583f18ed7f185979eed8584da.js",
+  "service-worker.js": "/tic-tac-toe-react/service-worker.js"
 }
