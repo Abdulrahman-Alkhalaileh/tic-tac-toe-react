@@ -1,5 +1,6 @@
+# In case you want to try out the project, visit https://Abdulrahman-Alkhalaileh.github.io/tic-tac-toe-react
+
 # Getting Started with Create React App
-In case you want to try out the project, visit https://Abdulrahman-Alkhalaileh.github.io/tic-tac-toe-react
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
